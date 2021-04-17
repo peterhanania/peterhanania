@@ -1,7 +1,7 @@
 <div>
   <p align="center">
     <!-- <img src="https://avatars2.githubusercontent.com/u/46096865?s=460&u=c17d80c0914eb1efe02ebe9aeba11b1e3cf9212a" width="30%"> -->
-    <h1 align="center" >Peter</h1>
+    <h1 align="center" >Peter's Profile</h1>
     <br>
     <div align="left">
    Hey I'm Peter, I like technology and programming. I'm mostly experienced with JavaScript. Currently working on a wep app similar to Fiverr.
