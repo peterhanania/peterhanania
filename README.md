@@ -4,7 +4,7 @@
     <h1 align="center" >Peter's Profile</h1>
     <br>
     <div align="left">
-   Hey I'm Peter, I like technology and programming. I'm mostly experienced with JavaScript. Currently working on a wep app similar to Fiverr.
+   Hey I'm Peter, I like technology and programming. I'm mostly experienced with JavaScript. Currently working on a wep app similar to Fiverr. I have a lot of experience with discord bots and is also working on a bot named <a href="https://pogy.xyz">Pogy</a>.
     </div>
   </p>
   
