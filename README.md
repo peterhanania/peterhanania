@@ -1,2 +1,6 @@
 ![](https://hit.yhype.me/github/profile?user_id=72696414)
+## :wave: Hello there! Welcome to this beautiful place called GitHub,
 ![](https://komarev.com/ghpvc/?username=peterhanania)
+
+My name is Peter, a full-stack developer working on several open-sourced projects that you can find in here!
+![Metrics](https://metrics.lecoq.io/peterhanania?template=classic&introduction=1&languages=1&lines=1&projects=1&activity=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FBeirut)
