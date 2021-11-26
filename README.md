@@ -1,5 +1,5 @@
 ![](https://hit.yhype.me/github/profile?user_id=72696414)
-## :wave: Hello there! Welcome to this beautiful place called GitHub,
+## :wave: Hello there! Welcome to my profile
 ![](https://komarev.com/ghpvc/?username=peterhanania)
 
 My name is Peter, a full-stack developer working on several open-sourced projects that you can find in here!
