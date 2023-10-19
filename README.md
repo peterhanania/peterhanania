@@ -1,3 +1,5 @@
+<!-- credits to https://github.com/thmsgbrt -->
+
 ![](https://hit.yhype.me/github/profile?user_id=72696414)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Hey! Nice to see you.</h1>
@@ -54,7 +56,7 @@
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Discord Package</b></a></td>
+            <td><a href="https://github.com/peterhanania/discord-package"><b>Discord Package</b></a></td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/peterhanania/discord-package?style=flat-square&labelColor=343b41" /></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/peterhanania/discord-package?style=flat-square&labelColor=343b41" /></td>
             <td><img alt="Issues" src="https://img.shields.io/github/issues/peterhanania/discord-package?style=flat-square&labelColor=343b41" /></td>
